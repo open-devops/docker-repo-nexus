@@ -1,0 +1,6 @@
+# Folders
+.git
+
+# Files
+.dockerignore 
+.gitignore
