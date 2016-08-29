@@ -1,6 +1,9 @@
 # Repository Management - Sonatype Nexus
 Sonatype Nexus Docker Image for Artifact Repository Management of Open DevOps Pipeline
 
+- Uses latest CentOS base image 
+- Adds a staging repository
+
 # docker pull
 docker pull devopsopen/docker-repo-nexus
 
