@@ -6,6 +6,8 @@
 FROM       centos:centos7.2.1511
 MAINTAINER Open DevOps Team <open.devops@gmail.com>
 
+ENV REFRESHED_AT 2016-08-25
+
 ENV NEXUS_DATA /nexus-data
 
 ENV NEXUS_VERSION 3.0.1-01
