@@ -1,3 +1,5 @@
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000)](https://hub.docker.com/r/devopsopen/docker-repo-nexus/)
+
 # Repository Management - Sonatype Nexus
 Sonatype Nexus Docker Image for Artifact Repository Management of Open DevOps Pipeline
 
