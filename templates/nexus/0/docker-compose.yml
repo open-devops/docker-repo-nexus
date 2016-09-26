@@ -1,0 +1,5 @@
+# repository management: nexus
+nexus:
+  image: devopsopen/docker-repo-nexus
+  ports:
+    - "18081:8081"

@@ -1,0 +1,8 @@
+name: OpenDevOps-Nexus
+description: |
+  Open DevOps Nexus Catalog
+version: 1.0.0
+category: REPOS
+maintainer: open.devops@gmail.com
+license: Apache 2
+projectURL: https://github.com/open-devops/docker-repo-nexus
